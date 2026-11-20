@@ -1,0 +1,10 @@
+# Python & PyInstaller
+.venv/
+__pycache__/
+*.pyc
+build/
+dist/
+*.spec
+.vscode/
+.context_builder/
+make_icon.py
